@@ -27,7 +27,7 @@ A **handheld, ₹3,000 device** that detects buried survivors by combining:
 - **Wireless LoRa transmission** (SF12, works through soil and rubble)
 - **Solar-powered field deployment** (runs indefinitely in daylight)
 
-> "Ground Pulse doesn't just detect life under rubble — it tells you if it's human."
+> "**Ground Pulse doesn't just detect life under rubble — it tells you if it's human.**"
 
 ---
 
