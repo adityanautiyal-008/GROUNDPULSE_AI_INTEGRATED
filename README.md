@@ -2,7 +2,6 @@
 
 A low-cost, AI-powered ground-based life detection and classification system for disaster rescue
 **Cost: ~₹3,000 | Detection Time: <10 seconds | 3-Class AI Output | Open Source**
-
 ---
 
 ## 🧭 Problem
